@@ -1,0 +1,22 @@
+age = 20
+String mess = age >= 18 ? "du tuoi" :"ko du tuoi";
+print(mess); => du tuoi
+
+kiểu_dữ_liệu tên_hàm(ts1,ts2...){
+    code...
+    return ;
+}
+
+CÁCH COMMIT/UPDATE GITHUB:
+git status
+git add .
+git commit -m "Cập nhật tệp mới với các thay đổi"
+git push origin main
+
+
+a = value;
+var b = <định dạng>.from(a);
+// copy giá trị
+
+list_a.removeWhere( (var)  => <điều kiện>   )
+// xóa phần tử var trong list_a nếu <điều kiện>
