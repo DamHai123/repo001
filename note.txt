@@ -1,6 +1,6 @@
 age = 20
 String mess = age >= 18 ? "du tuoi" :"ko du tuoi";
-print(mess); => du tuoi
+print(mess); // => du tuoi
 
 kiểu_dữ_liệu tên_hàm(ts1,ts2...){
     code...
