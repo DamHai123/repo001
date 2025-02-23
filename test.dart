@@ -1,3 +1,4 @@
 void main() {
-  print('ok');
+  String a = '1234';
+  print(a.toString().length);
 }
